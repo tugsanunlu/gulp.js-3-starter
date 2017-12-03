@@ -1,0 +1,6 @@
+package.json (http://jspkg.com/generator)
+gulpfile.js
+---
+npm install -g gulp
+npm install --save-dev gulp
+npm install --save-dev gulp-uglify gulp-concat gulp-minify-css gulp-less gulp-watch

@@ -1,0 +1,2 @@
+/* JS */
+$(document).ready(function(){});
