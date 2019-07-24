@@ -1,4 +1,4 @@
-# gulp.js-3-sample
+# gulp.js-3-starter
 
 https://nodejs.org/en/download/
 
